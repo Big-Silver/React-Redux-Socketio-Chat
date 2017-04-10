@@ -7,7 +7,7 @@
 Using React.js and Socket.io, I built the React-chatting-App.
 This project is written by [Big Silver].
 
-## Preinstall
+## Prepare
 
 Note: You need MongoDB set up and running to run the code locally. [Installation instructions](https://docs.mongodb.org/manual/installation/)
 
